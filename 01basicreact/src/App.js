@@ -2,7 +2,7 @@ import Chai from './Chai';
 function App() {
   return (
     <>
-    <Chai />
+    <Chai/>
     <h1>Hello World and Shailesh Kumar</h1>
     </>
   );
